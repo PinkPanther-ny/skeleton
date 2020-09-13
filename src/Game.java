@@ -1,4 +1,5 @@
 import bagel.AbstractGame;
+import bagel.Input;
 
 public class Game extends AbstractGame {
 
@@ -19,7 +20,7 @@ public class Game extends AbstractGame {
 
     @Override
     public void update(Input input) {
-        
+
     }
 
 }
